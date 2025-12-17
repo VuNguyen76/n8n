@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+
+# Local n8n data
+user_data
+.n8n
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log
+*.log
+
+# System
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode
+.idea

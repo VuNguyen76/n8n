@@ -1,0 +1,6 @@
+node_modules
+user_data
+.git
+.env
+start.bat
+npm-debug.log
